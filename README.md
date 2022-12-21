@@ -1,5 +1,5 @@
 # CSCI-B 565 Data Mining
-ref: https://cgi.luddy.indiana.edu/~yye/b565/index.php
+reference: https://cgi.luddy.indiana.edu/~yye/b565/index.php
 
 ### Syllabus
 <li>Introduction to data mining
