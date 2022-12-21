@@ -1,6 +1,6 @@
 # CSCI-B 565 Data Mining
 ~Professor Yuzhen Ye
-reference: https://cgi.luddy.indiana.edu/~yye/b565/index.php
+<br>reference: https://cgi.luddy.indiana.edu/~yye/b565/index.php
 
 ### Syllabus
 <li>Introduction to data mining
